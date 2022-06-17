@@ -10,7 +10,7 @@
   "author": "Jhonatan Amórtegui",
   "license": "ISC",
   "dependencies": {
-    "electron": "^6.0.11",
+    "electron": "^15.5.5",
     "electron-pdf-window": "^1.0.12"
   }
 }
